@@ -1,0 +1,4 @@
+﻿  application.cpp
+  Timer.cpp
+  Generating Code...
+D:\projects\StarField\src\application.cpp(25): error C4700:  uninitialized local variable 'isRunning' used

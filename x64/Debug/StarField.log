@@ -1,0 +1,5 @@
+﻿  application.cpp
+D:\projects\StarField\src\application.cpp(147,46): warning C4244:  'argument': conversion from 'float' to 'Uint8', possible loss of data
+D:\projects\StarField\src\application.cpp(164,46): warning C4244:  'argument': conversion from 'float' to 'Uint8', possible loss of data
+D:\projects\StarField\src\application.cpp(366,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StarField.vcxproj -> D:\projects\StarField\x64\Debug\StarField.exe
